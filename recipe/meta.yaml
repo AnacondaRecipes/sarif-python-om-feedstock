@@ -32,7 +32,6 @@ test:
   imports:
     - sarif_om
   commands:
-    - python -c "import sarif_om"
     - pip check
 
 about:
